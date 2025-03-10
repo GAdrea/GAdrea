@@ -25,7 +25,7 @@ Je suis un développeur web créatif et passionné, spécialisé dans la créati
 
 ### 🔗 Liens
 
-- 🌐 **[Mon Portfolio](https://votre-portfolio.com)** - Découvrez mes projets en détail
+- 🌐 **[Mon Portfolio](https://votre-portfolio.com)** - Découvrez mes projets en détail (Pas encore disponible)
 - 📧 **[Contactez-moi](mailto:votre-email@example.com)** - Intéressé(e) par une collaboration ?
 - 💼 **[LinkedIn](https://www.linkedin.com/in/gr%C3%A9gorhy-adr%C3%A9a-a58227154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** - Mon profil professionnel
 
@@ -33,7 +33,7 @@ Je suis un développeur web créatif et passionné, spécialisé dans la créati
 
 ### 📈 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GAdrea&show_icons=true&theme=radical)
 
 ---
 
