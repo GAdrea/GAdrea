@@ -11,7 +11,7 @@ Je suis un développeur web en apprentissage, spécialisé dans la création de 
 - **Langages**: HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks/Bibliothèques**: Pas encore
 - **Outils**: Git
-- **Design**: Responsive Design, UI/UX, Figma, Adobe
+- **Design**: Adobe
 
 ---
 
@@ -23,11 +23,20 @@ Je suis un développeur web en apprentissage, spécialisé dans la création de 
 
 ---
 
+### 🎬 Compétences en montage vidéo
+
+- **Logiciels maîtrisés**: Adobe Premiere Pro, Adobe After Effects
+- **Spécialités**: Montage, effets visuels, animations, transitions
+- **Projets**: Montages personnels
+
+---
+
 ### 🔗 Liens
 
 - 🌐 **[Mon Portfolio](https://votre-portfolio.com)** - Découvrez mes projets en détail (Pas encore disponible)
 - 📧 **[Contactez-moi](mailto:votre-email@example.com)** - Intéressé(e) par une collaboration ?
 - 💼 **[LinkedIn](https://www.linkedin.com/in/gr%C3%A9gorhy-adr%C3%A9a-a58227154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** - Mon profil professionnel
+- 💬 **[Discord](https://discord.gg/RcjYnYn)** - Discutons en direct !
 
 ---
 
