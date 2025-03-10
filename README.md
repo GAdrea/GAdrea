@@ -34,6 +34,7 @@ Je suis un développeur web en apprentissage, spécialisé dans la création de 
 ### 📈 Statistiques GitHub
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=GAdrea&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GAdrea)](https://git.io/streak-stats)
 
 ---
 
