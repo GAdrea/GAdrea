@@ -1,8 +1,8 @@
 # 👋 Bonjour, je m'appelle Grégorhy
 
-## 👨‍💻 Développeur Web Passionné (en apprentissage)
+## 👨‍💻 Développeur Web (en apprentissage)
 
-Je suis un développeur web créatif et passionné, spécialisé dans la création d'expériences web modernes et intuitives.
+Je suis un développeur web en apprentissage, spécialisé dans la création de solutions à mes petits problèmes perso au boulot. Boulot qui n'a rien à voir avec ma formation actuelle. Mais j'aime être polyvalent et apprendre de nouvelles choses!
 
 ---
 
@@ -17,9 +17,9 @@ Je suis un développeur web créatif et passionné, spécialisé dans la créati
 
 ### 🚀 Projets récents
 
-- **[Nom du Projet 1]** - Description courte du projet
-- **[Nom du Projet 2]** - Description courte du projet
-- **[Nom du Projet 3]** - Description courte du projet
+- **[Convertisseur d'heures supplémentaires]** - Outil permettant de convertir les heures supplémentaires en minutes pour ma feuille d'émargement au travail, évitant ainsi les erreurs de calcul et les réprimandes de mon manager
+- **[Suivi Horaire]** - Outil permettant d'enregistrer mon temps de travail et de calculer le salaire gagné en fonction du taux horaire. Il prend également en compte les gains liés à d'autres professions.
+- **[Colis JP]** - Système d'enregistrement des colis expédiés par l'hôtel, permettant de saisir le type de colis, son prix et le coût du matériel. Il distingue les paiements en liquide de ceux par carte (nécessitant un passage en réception) et génère un document récapitulatif pour la réception. Ce projet améliore l'ergonomie et la rapidité de la tâche en éliminant les saisies répétitives.
 
 ---
 
