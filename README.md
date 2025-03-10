@@ -41,4 +41,4 @@ Je suis un développeur web créatif et passionné, spécialisé dans la créati
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité de collaboration.
 
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=votre-username.votre-username)
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=GAdrea.GAdrea)
