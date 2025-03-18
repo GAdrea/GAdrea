@@ -23,7 +23,7 @@ Je suis un développeur web en apprentissage, spécialisé dans la création de 
 
 ### 🚀 Projets récents
 
-- **[Convertisseur d'heures supplémentaires]** - Outil permettant de convertir les heures supplémentaires en minutes pour ma feuille d'émargement au travail, évitant ainsi les erreurs de calcul et les réprimandes de mon manager. C'est la première application que j'ai créée en JavaScript en plus d'être le premier projet pratique appliquée à un problème réel.
+- **[Convertisseur d'heures supplémentaires]** - Outil permettant de convertir les heures supplémentaires en minutes pour ma feuille d'émargement au travail, évitant ainsi les erreurs de calcul et les réprimandes de mon manager. C'est la première application que j'ai créée en JavaScript en plus d'être le premier projet pratique appliqué à un problème réel.
 
 - **[Suivi Horaire]** - Outil permettant d'enregistrer mon temps de travail et de calculer le salaire gagné en fonction du taux horaire. Il prend également en compte les gains liés à d'autres professions. Ce projet est surtout là pour suivre mes gains pendant ma période de (futur) chômeur.
 
