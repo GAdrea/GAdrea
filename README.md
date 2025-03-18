@@ -31,14 +31,6 @@ Je suis un développeur web en apprentissage, spécialisé dans la création de 
 
 ---
 
-### 🎬 Compétences en montage vidéo
-
-- **Logiciels maîtrisés**: Adobe Premiere Pro, Adobe After Effects
-- **Spécialités**: Montage, effets visuels, animations, transitions
-- **Projets**: Montages personnels
-
----
-
 ### 🔗 Liens
 
 - 🌐 **[Mon Portfolio](https://votre-portfolio.com)** - Découvrez mes projets en détail (Pas encore disponible)
